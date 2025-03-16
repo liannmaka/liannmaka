@@ -47,7 +47,7 @@ Detail-oriented Front-End Engineer with 3+ years of experience. I specialize in 
 
 - **Description:** This is an admin web app accessible only to administrators. It provides a quick overview of various customer analytics and allows administrators to view, create, update, and delete customer records. More features will be added as the project evolves. Additionally, a separate customer-facing application will be attached,enabling customers to access and perform their activities.
 - **Tech Stack:** Vue 3, TypeScript, Tailwind CSS, Pinia, Quill, Supabase.
-- [Live Demo](https://cus-todia.netlify.app/) | [Source Code]
+- [Live Demo](https://cus-todia.netlify.app/) | [Source Code](https://github.com/liannmaka/Sycamore-Frontend)
 
 ---
 
@@ -55,7 +55,7 @@ Detail-oriented Front-End Engineer with 3+ years of experience. I specialize in 
 
 - **Email:** [ogbuolilian@gmail.com](mailto:ogbuolilian@gmail.com)
 - **GitHub:** [liannmaka](https://github.com/liannmaka)
-- **LinkedIn:** [Ogbuo Chiamaka](https://www.linkedin.com/in/ogbuo-chiamaka)
+- **LinkedIn:** [ogbuo-lilian](https://www.linkedin.com/in/ogbuo-chiamaka)
 
 ---
 
