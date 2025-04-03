@@ -36,6 +36,11 @@ Detail-oriented Front-End Engineer with 3+ years of experience. I specialize in 
 ## 🚀 Featured Projects
 
 ### Custodia
+
+- **Description:** This is an admin web app accessible only to administrators. It provides a quick overview of various customer analytics and allows administrators to view, create, update, and delete customer records. More features will be added as the project evolves. Additionally, a separate customer-facing application will be attached,enabling customers to access and perform their activities.
+- **Tech Stack:** Vue 3, TypeScript, Tailwind CSS, Pinia, Quill, Supabase.
+- [Live Demo](https://cus-todia.netlify.app/) | [Source Code](https://github.com/liannmaka/Sycamore-Frontend)
+
 ![image](https://github.com/user-attachments/assets/afe5972f-6130-4009-815b-f1a18233bccb) ![image](https://github.com/user-attachments/assets/b546a0ca-aca1-46eb-93a9-7dcac707ad13)
 
 ![image](https://github.com/user-attachments/assets/37e02aca-01d3-4a5e-8b28-ada3316dd05c)
@@ -43,11 +48,6 @@ Detail-oriented Front-End Engineer with 3+ years of experience. I specialize in 
 ![image](https://github.com/user-attachments/assets/5e1bf945-077c-4ab4-8fe6-e3dab3cc3215) ![image](https://github.com/user-attachments/assets/606c790e-b850-4bd2-8038-831bd80ce147)
 
 ![image](https://github.com/user-attachments/assets/4587f966-9aa6-4295-bfb4-caf540c62a6f) ![image](https://github.com/user-attachments/assets/2c566204-a956-422e-90c9-afe863a5e4d3)
-
-
-- **Description:** This is an admin web app accessible only to administrators. It provides a quick overview of various customer analytics and allows administrators to view, create, update, and delete customer records. More features will be added as the project evolves. Additionally, a separate customer-facing application will be attached,enabling customers to access and perform their activities.
-- **Tech Stack:** Vue 3, TypeScript, Tailwind CSS, Pinia, Quill, Supabase.
-- [Live Demo](https://cus-todia.netlify.app/) | [Source Code](https://github.com/liannmaka/Sycamore-Frontend)
 
 ---
 
