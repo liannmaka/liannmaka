@@ -42,6 +42,8 @@ Detail-oriented Front-End Engineer with 3+ years of experience. I specialize in 
 
 <img width="1366" height="612" alt="Screenshot (698)" src="https://github.com/user-attachments/assets/a7b38ad2-abee-42c1-b0cf-8c5313d6cdaa" />
 
+---
+
 ### Custodia
 
 - **Description:** This is an admin web app accessible only to administrators. It provides a quick overview of various customer analytics and allows administrators to view, create, update, and delete customer records. More features will be added as the project evolves. Additionally, a separate customer-facing application will be attached,enabling customers to access and perform their activities.
