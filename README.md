@@ -46,7 +46,9 @@ Detail-oriented Front-End Engineer with 3+ years of experience. I specialize in 
 
 <img width="1366" height="612" alt="Screenshot (704)" src="https://github.com/user-attachments/assets/0cf24709-5908-4d55-a813-7d33aaafa7e0" />
 
----
+<img width="1366" height="614" alt="Screenshot (703)" src="https://github.com/user-attachments/assets/691fe2d8-7bac-4de4-b03e-b036cf163e69" />
+
+--
 
 ### Custodia
 
