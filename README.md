@@ -39,7 +39,6 @@ Detail-oriented Front-End Engineer with 3+ years of experience. I specialize in 
 
 - **Description:** A calm productivity and wellness web app to help you plan your day, focus on what matters, and stay mindful, one Pomodoro at a time.
 - **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Framer-motion, lottie-react.
-//- [Live Demo](https://cus-todia.netlify.app/)
 
 <img width="1366" height="612" alt="Screenshot (698)" src="https://github.com/user-attachments/assets/a7b38ad2-abee-42c1-b0cf-8c5313d6cdaa" />
 
