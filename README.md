@@ -54,8 +54,8 @@ Detail-oriented Front-End Engineer with 3+ years of experience. I specialize in 
 ## 📫 Connect with Me
 
 - **Email:** [ogbuolilian@gmail.com](mailto:ogbuolilian@gmail.com)
-- **GitHub:** [liannmaka](https://github.com/liannmaka)
 - **LinkedIn:** [ogbuo-chiamaka](https://www.linkedin.com/in/ogbuo-chiamaka)
+- **Twitter:** [Chiamaka | Dev.chemist](https://x.com/filix_lillyann)
 
 ---
 
