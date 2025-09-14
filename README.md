@@ -23,7 +23,7 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 
 <p style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; align-items:flex-start;">
   <img 
-    src="https://github.com/user-attachments/assets/a7b38ad2-abee-42c1-b0cf-8c5313d6cdaa" 
+    src="./assets/focuspond-hero.webp" 
     alt="Focuspond — hero section" 
     style="width:48%; max-width:460px; min-width:220px; height:auto;" 
     />
