@@ -48,12 +48,12 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; align-items:flex-start; margin-bottom:20px;">
   <img 
     src="https://github.com/user-attachments/assets/e5845fb8-444e-4a51-a9cd-b99d8b8dd549" 
-    alt="Custodia — customer list with search and filters" 
+    alt="Custodia — analytics charts and KPI" 
     style="width:48%; max-width:460px; min-width:220px; height:auto;" 
   />
   <img 
     src="https://github.com/user-attachments/assets/62f451fc-80d4-464b-bdd4-55c8e25d8d8a" 
-    alt="Custodia — analytics charts and KPIs" 
+    alt="Custodia — customer list with search" 
     style="width:48%; max-width:460px; min-width:220px; height:auto;" 
   />
 </div>
@@ -61,12 +61,14 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 
 <p style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;align-items:flex-start;">
   <img 
-    width="460" alt="Screenshot (641)"
     src="https://github.com/user-attachments/assets/11708e33-fa3f-45b6-9fae-76a37e6007cc" 
+    alt="Custodia — analytics charts and KPI"
+    style="width:48%; max-width:460px; min-width:220px; height:auto;"
     />
   <img 
-    width="460" alt="Screenshot (641)"
-    src="https://github.com/user-attachments/assets/0b490c02-cf4e-4844-87e4-7d10237df403" 
+    src="https://github.com/user-attachments/assets/0b490c02-cf4e-4844-87e4-7d10237df403"
+    alt="Custodia — add customer screen"
+    style="width:48%; max-width:460px; min-width:220px; height:auto;"
 </p>
 
 ---
