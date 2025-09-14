@@ -45,23 +45,28 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 
 [▶️ Live demo](https://cus-todia.netlify.app/) · [📂 Source](https://github.com/liannmaka/Sycamore-Frontend)
 
-<div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;align-items:flex-start;">
+<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; align-items:flex-start; margin-bottom:20px;">
   <img 
     src="https://github.com/user-attachments/assets/e5845fb8-444e-4a51-a9cd-b99d8b8dd549" 
     alt="Custodia — customer list with search and filters" 
-    style="width:48%;max-width:460px;min-width:220px;height:auto;border-radius:10px;box-shadow:0 8px 20px rgba(0,0,0,0.08);" 
+    style="width:48%; max-width:460px; min-width:220px; height:auto;" 
   />
   <img 
     src="https://github.com/user-attachments/assets/62f451fc-80d4-464b-bdd4-55c8e25d8d8a" 
     alt="Custodia — analytics charts and KPIs" 
-    style="width:48%;max-width:460px;min-width:220px;height:auto;border-radius:10px;box-shadow:0 8px 20px rgba(0,0,0,0.08);" 
+    style="width:48%; max-width:460px; min-width:220px; height:auto;" 
   />
 </div>
 
 
 <p style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;align-items:flex-start;">
-  <img width="460" alt="Screenshot (639)" src="https://github.com/user-attachments/assets/11708e33-fa3f-45b6-9fae-76a37e6007cc" style="width:48%;max-width:460px;min-width:220px;height:auto;border-radius:10px;box-shadow:0 8px 20px rgba(0,0,0,0.08);" />
-  <img width="460" alt="Screenshot (641)" src="https://github.com/user-attachments/assets/0b490c02-cf4e-4844-87e4-7d10237df403" style="width:48%;max-width:460px;min-width:220px;height:auto;border-radius:10px;box-shadow:0 8px 20px rgba(0,0,0,0.08);"  />
+  <img 
+    width="460" alt="Screenshot (641)"
+    src="https://github.com/user-attachments/assets/11708e33-fa3f-45b6-9fae-76a37e6007cc" 
+    />
+  <img 
+    width="460" alt="Screenshot (641)"
+    src="https://github.com/user-attachments/assets/0b490c02-cf4e-4844-87e4-7d10237df403" 
 </p>
 
 ---
