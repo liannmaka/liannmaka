@@ -6,13 +6,13 @@
 ---
 
 ## 🔭 Current focus
-Working on **FocusPond** — a calm productivity & wellness app that combines Pomodoro with mindful micro-breaks.
+Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomodoro with mindful micro-breaks.
 
 ---
 
 ## 🚀 Featured projects
 
-### FocusPond — calm productivity for focused work  
+### FocusPond ~ calm productivity for focused work  
 **Problem:** People get distracted and don’t take intentional, restorative breaks.  
 **Solution:** Pomodoro + mindful micro-break prompts to help users focus and reflect.  
 **My role:** Frontend Engineer — UI, animations, state, and deployment.  
