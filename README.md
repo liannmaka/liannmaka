@@ -13,11 +13,13 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 ## 🚀 Featured projects
 
 ### FocusPond ~ calm productivity for focused work  
-**Problem:** People get distracted and don’t take intentional, restorative breaks.  
+**Problem:** People get distracted and don’t take intentional, restorative breaks. 
+
 **Solution:** Pomodoro + mindful micro-break prompts to help users focus and reflect.  
+
 **My role:** Frontend Engineer — UI, animations, state, and deployment.  
+
 **Tech:** Next.js · TypeScript · Tailwind · Framer Motion · Lottie  
-[Live demo](LIVE_URL) · [Source](REPO_URL)
 
 <p align="center">
   <a href="LIVE_URL"><img src="./assets/focuspond-hero.webp" alt="FocusPond — hero view" width="1000"></a>
