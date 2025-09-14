@@ -51,7 +51,7 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 
 <p align="center">
   <img width="460" alt="Screenshot (639)" src="https://github.com/user-attachments/assets/11708e33-fa3f-45b6-9fae-76a37e6007cc" />
-  <img src="./assets/custodia-analytics.webp" alt="Custodia — analytics charts and KPIs" width="460" />
+  <img width="460" alt="Screenshot (640)" src="https://github.com/user-attachments/assets/62f451fc-80d4-464b-bdd4-55c8e25d8d8a" />
 </p>
 
 ---
