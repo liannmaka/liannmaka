@@ -22,6 +22,7 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 **Tech:** Next.js · TypeScript · Tailwind · Framer Motion · Lottie  
 
 <p style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; align-items:flex-start;">
+  ![Focuspond — hero section](./assets/focuspond-hero.webp)
   <img 
     src="https://github.com/liannmaka/Focuspond/blob/main/public/assets/focuspond-hero.webp" 
     alt="Focuspond — hero section" 
