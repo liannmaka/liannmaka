@@ -22,12 +22,7 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 **Tech:** Next.js · TypeScript · Tailwind · Framer Motion · Lottie  
 
 <p align="center">
-  <a href="LIVE_URL"><img src="./assets/focuspond-hero.webp" alt="FocusPond — hero view" width="1000"></a>
-</p>
-
-<p align="center">
-  <img src="./assets/focuspond-1.webp" alt="FocusPond — timer view" width="460" /> &nbsp;
-  <img src="./assets/focuspond-2.webp" alt="FocusPond — settings & breaks" width="460" />
+  <img width="1366" height="612" alt="Screenshot (698)" src="https://github.com/user-attachments/assets/a7b38ad2-abee-42c1-b0cf-8c5313d6cdaa" />
 </p>
 
 <!-- Demo GIF (optional): uncomment if you add it -->
