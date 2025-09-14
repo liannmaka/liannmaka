@@ -59,7 +59,7 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 </div>
 
 
-<p align="center" display="flex">
+<p style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;align-items:flex-start;">
   <img width="460" alt="Screenshot (639)" src="https://github.com/user-attachments/assets/11708e33-fa3f-45b6-9fae-76a37e6007cc" />
   <img width="460" alt="Screenshot (641)" src="https://github.com/user-attachments/assets/0b490c02-cf4e-4844-87e4-7d10237df403" />
 </p>
