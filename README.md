@@ -56,10 +56,14 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 ---
 
 ## 🛠️ Skills & tech
-**Frontend:** HTML · CSS · JavaScript · TypeScript  
+**Frontend:** HTML · CSS · JavaScript · TypeScript
+
 **Frameworks:** React · Next.js · Vue · Nuxt.js  
-**UI / Styling:** Tailwind CSS · Bootstrap · MaterialUI · Framer Motion · Lottie  
+
+**UI / Styling:** Tailwind CSS · Bootstrap · MaterialUI · Framer Motion · Lottie 
+
 **State & Data:** Zustand · Pinia · React Query · Supabase  
+
 **Tools:** Git · Figma · Jira · Vercel · Netlify
 
 ---
