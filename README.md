@@ -34,6 +34,19 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
     />
 </p>
 
+<p style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; align-items:flex-start;">
+  <img 
+    src="https://github.com/user-attachments/assets/13bcac50-af46-46ef-b461-2e309694e3ec" 
+    alt="Focuspond — whoit's for section" 
+    style="width:48%; max-width:460px; min-width:220px; height:auto;" 
+    />
+  <img 
+    src="https://github.com/user-attachments/assets/0bda2d89-9b1b-4173-a9d4-cbe94112e9a9"
+    alt="Focuspond — features section" 
+    style="width:48%; max-width:460px; min-width:220px; height:auto;"  
+    />
+</p>
+
 <!-- Demo GIF (optional): uncomment if you add it -->
 <!--
 <p align="center">
