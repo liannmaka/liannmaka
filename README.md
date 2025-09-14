@@ -1,4 +1,4 @@
-# Hi ~ I’m Ogbuo *Lilian Chiamaka* 👋
+# Hi ~ I’m Ogbuo Lilian Chiamaka 👋
 **Frontend Engineer** building SaaS landing pages and webapps with a focus on clean design and smooth interactions.
 
 > 3+ years building responsive web apps, collaborating with designers, and shipping production-ready UIs.
@@ -21,8 +21,17 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 
 **Tech:** Next.js · TypeScript · Tailwind · Framer Motion · Lottie  
 
-<p align="center">
-  <img width="1366" height="612" alt="Screenshot (698)" src="https://github.com/user-attachments/assets/a7b38ad2-abee-42c1-b0cf-8c5313d6cdaa" />
+<p style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; align-items:flex-start;">
+  <img 
+    src="https://github.com/user-attachments/assets/a7b38ad2-abee-42c1-b0cf-8c5313d6cdaa" 
+    alt="Focuspond — hero section" 
+    style="width:48%; max-width:460px; min-width:220px; height:auto;" 
+    />
+  <img 
+    src="https://github.com/user-attachments/assets/3dadca2a-eba4-437b-b6d0-f8bbd7525d40" 
+    alt="Focuspond — benefit section" 
+    style="width:48%; max-width:460px; min-width:220px; height:auto;"  
+    />
 </p>
 
 <!-- Demo GIF (optional): uncomment if you add it -->
@@ -45,7 +54,7 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 
 [▶️ Live demo](https://cus-todia.netlify.app/) · [📂 Source](https://github.com/liannmaka/Sycamore-Frontend)
 
-<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; align-items:flex-start; margin-bottom:20px;">
+<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; align-items:flex-start;">
   <img 
     src="https://github.com/user-attachments/assets/e5845fb8-444e-4a51-a9cd-b99d8b8dd549" 
     alt="Custodia — analytics charts and KPI" 
