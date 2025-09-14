@@ -34,10 +34,15 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 
 ---
 
-### Custodia — admin dashboard for customer analytics  
-**Problem:** Admins need an easy way to view customers and quick metrics.  
-**Solution:** Admin dashboard with CRUD, quick analytics, and Search.  
-**Tech:** Vue 3 · TypeScript · Tailwind CSS · Pinia · Supabase  
+### Custodia ~ admin dashboard for customer analytics  
+**Problem:** Admins need an easy way to view customers and quick metrics.
+
+**Solution:** Admin dashboard with CRUD, quick analytics, and Search.
+
+**My role:** Frontend Engineer — UI, animations, state, and deployment.
+
+**Tech:** Vue 3 · TypeScript · Tailwind CSS · Pinia · Supabase 
+
 [Live demo](https://cus-todia.netlify.app/) · [Source](https://github.com/liannmaka/Sycamore-Frontend)
 
 <p align="center">
