@@ -43,15 +43,15 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 
 **Tech:** Vue 3 · TypeScript · Tailwind CSS · Pinia · Supabase 
 
-[Live demo](https://cus-todia.netlify.app/) · [Source](https://github.com/liannmaka/Sycamore-Frontend)
+[▶️ Live demo](https://cus-todia.netlify.app/) · [📂 Source](https://github.com/liannmaka/Sycamore-Frontend)
 
 <p align="center">
   <img width="1000" height="475" alt="Screenshot (638)" src="https://github.com/user-attachments/assets/e5845fb8-444e-4a51-a9cd-b99d8b8dd549" />
 </p>
 
 <p align="center">
- <img width="1000" height="482" alt="Screenshot (639)" src="https://github.com/user-attachments/assets/11708e33-fa3f-45b6-9fae-76a37e6007cc" />
-  <img width="1088" height="482" alt="Screenshot (640)" src="https://github.com/user-attachments/assets/62f451fc-80d4-464b-bdd4-55c8e25d8d8a" />
+  <img src="./assets/custodia-list.webp" alt="Custodia — customer list with search and filters" width="460" /> &nbsp;
+  <img src="./assets/custodia-analytics.webp" alt="Custodia — analytics charts and KPIs" width="460" />
 </p>
 
 ---
