@@ -46,7 +46,8 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 [▶️ Live demo](https://cus-todia.netlify.app/) · [📂 Source](https://github.com/liannmaka/Sycamore-Frontend)
 
 <p align="center">
-  <img width="1000" height="475" alt="Screenshot (638)" src="https://github.com/user-attachments/assets/e5845fb8-444e-4a51-a9cd-b99d8b8dd549" />
+  <img width="460" alt="Screenshot (638)" src="https://github.com/user-attachments/assets/e5845fb8-444e-4a51-a9cd-b99d8b8dd549" />
+  <img width="460" alt="Screenshot (641)" src="https://github.com/user-attachments/assets/0b490c02-cf4e-4844-87e4-7d10237df403" />
 </p>
 
 <p align="center">
