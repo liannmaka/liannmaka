@@ -17,7 +17,7 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 
 **Solution:** Pomodoro + mindful micro-break prompts to help users focus and reflect.  
 
-**My role:** Frontend Engineer — UI, animations, state, and deployment.  
+**My role:** Frontend Engineer ~ UI, animations, state, and deployment.  
 
 **Tech:** Next.js · TypeScript · Tailwind · Framer Motion · Lottie  
 
@@ -39,7 +39,7 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 
 **Solution:** Admin dashboard with CRUD, quick analytics, and Search.
 
-**My role:** Frontend Engineer — UI, animations, state, and deployment.
+**My role:** Frontend Engineer ~ UI, animations, state, and deployment.
 
 **Tech:** Vue 3 · TypeScript · Tailwind CSS · Pinia · Supabase 
 
