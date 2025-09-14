@@ -1,4 +1,4 @@
-# Hi, I’m Ogbuo *Lilian Chiamaka* 👋
+# Hi ~ I’m Ogbuo *Lilian Chiamaka* 👋
 **Frontend Engineer** building SaaS landing pages and webapps with a focus on clean design and smooth interactions.
 
 > 3+ years building responsive web apps, collaborating with designers, and shipping production-ready UIs.
