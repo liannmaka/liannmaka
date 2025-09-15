@@ -100,7 +100,7 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 
 **Frameworks:** React · Next.js · Vue · Nuxt.js  
 
-**UI / Styling:** Tailwind CSS · Bootstrap · MaterialUI · Framer Motion · Lottie 
+**UI / Styling:** Tailwind CSS · Bootstrap · MaterialUI · Framer Motion 
 
 **State & Data:** Zustand · Pinia · React Query · Supabase  
 
