@@ -114,10 +114,10 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 - **X (Twitter):** [@filix_lillyann](https://x.com/filix_lillyann)
 
 ---
-
+<!--
 ## 📄 Resume
 [Download PDF](./assets/ogbuo-lilian-resume.pdf)
-
+-->
 ---
 
 ### Want to see more?
