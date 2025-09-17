@@ -117,7 +117,6 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 <!--
 ## 📄 Resume
 [Download PDF](./assets/ogbuo-lilian-resume.pdf)
-
 ---
 -->
 
