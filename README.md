@@ -67,7 +67,7 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 
 [▶️ Live demo](https://cus-todia.netlify.app/) · [📂 Source](https://github.com/liannmaka/Sycamore-Frontend)
 
-<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; align-items:flex-start;">
+<p style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; align-items:flex-start;">
   <img 
     src="https://github.com/liannmaka/Assets/blob/main/assets/custodia/custodia-dashboard.webp" 
     alt="Custodia — analytics charts and KPI" 
@@ -78,9 +78,9 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
     alt="Custodia — customer list with search" 
     style="width:48%; max-width:460px; min-width:220px; height:auto;" 
   />
-</div>
+</p>
 
-
+<!--
 <p style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;align-items:flex-start;">
   <img 
     src="https://github.com/liannmaka/Assets/blob/main/assets/custodia/custodia-dashboard-2.webp" 
@@ -92,7 +92,7 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
     alt="Custodia — add customer screen"
     style="width:48%; max-width:460px; min-width:220px; height:auto;"
 </p>
-
+-->
 ---
 
 ## 🛠️ Skills & tech
