@@ -69,7 +69,7 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; align-items:flex-start;">
   <img 
-    src="https://github.com/liannmaka/Assets/blob/main/assets/custodia/custodia-dashboard-1.webp" 
+    src="https://github.com/liannmaka/Assets/blob/main/assets/custodia/custodia-dashboard.webp" 
     alt="Custodia — analytics charts and KPI" 
     style="width:48%; max-width:460px; min-width:220px; height:auto;" 
   />
