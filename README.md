@@ -80,19 +80,17 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
   />
 </p>
 
-<!--
 <p style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;align-items:flex-start;">
   <img 
-    src="https://github.com/liannmaka/Assets/blob/main/assets/custodia/custodia-dashboard-2.webp" 
-    alt="Custodia — analytics charts and KPI"
+    src="https://github.com/liannmaka/Assets/blob/main/assets/custodia/custodia-add-customer.webp" 
+    alt="Custodia — add customer screen"
     style="width:48%; max-width:460px; min-width:220px; height:auto;"
     />
   <img 
-    src="https://github.com/liannmaka/Assets/blob/main/assets/custodia/custodia-add-customer.webp"
-    alt="Custodia — add customer screen"
+    src="https://github.com/liannmaka/Assets/blob/main/assets/custodia/custodia-edit-customer.webp"
+    alt="Custodia — edit customer screen"
     style="width:48%; max-width:460px; min-width:220px; height:auto;"
 </p>
--->
 ---
 
 ## 🛠️ Skills & tech
