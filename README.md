@@ -57,6 +57,31 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 -->
 
 ---
+### Fleet Management System ~ collaborative car rental app (Hackathon Project)
+**Context:** A full-stack car rental platform built for both admins (managing cars and reservations) and users (browsing and booking cars). Developed during a two-week hackathon focused on collaboration and rapid execution.
+
+**My role:** Frontend Engineer ~ architecture setup, authentication flow, and admin dashboard implementation.
+
+**Contributions:**
+
+~ Structured the frontend architecture and created a shared API helper for backend communication.
+
+~ Implemented and refined the authentication screens based on our team’s UI/UX design.
+
+~ Designed and developed the Admin Dashboard UI, adapting the existing user layout and extending it for admin workflows.
+
+~ Supported team organization and helped maintain task flow during active development.
+
+**Cars tab:** Built and integrated the cars table along with add, edit, and detail modals.
+
+**Users tab:** Built and integrated the users table.
+
+**Bookings tab:** Built and integrated the bookings table with popover actions and a “create reservation” modal.
+
+**Tech:** Next.js 15 · TypeScript · Tailwind CSS · Shadcn UI · React Hook Form · Zod · Supabase (backend database)
+
+<!-- **Note:** While the application wasn’t fully completed within the hackathon window, I’m proud of the frontend functionality and structure I delivered during the two-week build. It was a valuable experience in collaboration, adaptability, and focused execution. -->
+---
 
 ### Custodia ~ admin dashboard for customer analytics  
 **Problem:** Admins need an easy way to view customers and quick metrics.
