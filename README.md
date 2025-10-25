@@ -80,6 +80,45 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 
 **Tech:** Next.js 15 · TypeScript · Tailwind CSS · Shadcn UI · React Hook Form · Zod · Supabase (backend database)
 
+<p style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; align-items:flex-start;">
+  <img 
+    src="https://github.com/liannmaka/Assets/blob/main/assets/hackathon/Screenshot%20(22).png" 
+    alt="Sign up screen" 
+    style="width:48%; max-width:460px; min-width:220px; height:auto;" 
+  />
+  <img 
+    src="https://github.com/liannmaka/Assets/blob/main/assets/hackathon/Screenshot%20(23).png" 
+    alt="Sign in screen" 
+    style="width:48%; max-width:460px; min-width:220px; height:auto;" 
+  />
+</p>
+
+<p style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; align-items:flex-start;">
+  <img 
+    src="https://github.com/liannmaka/Assets/blob/main/assets/hackathon/booking%20tab.png" 
+    alt="Booking tab" 
+    style="width:48%; max-width:460px; min-width:220px; height:auto;" 
+  />
+  <img 
+    src="https://github.com/liannmaka/Assets/blob/main/assets/hackathon/car%20tab.png" 
+    alt="Car tab" 
+    style="width:48%; max-width:460px; min-width:220px; height:auto;" 
+  />
+</p>
+
+<p style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; align-items:flex-start;">
+  <img 
+    src="https://github.com/liannmaka/Assets/blob/main/assets/hackathon/car%20modal.png" 
+    alt="Car modal" 
+    style="width:48%; max-width:460px; min-width:220px; height:auto;" 
+  />
+  <img 
+    src="https://github.com/liannmaka/Assets/blob/main/assets/hackathon/Screenshot%20(27).png" 
+    alt="Reservation modal" 
+    style="width:48%; max-width:460px; min-width:220px; height:auto;" 
+  />
+</p>
+
 <!-- **Note:** While the application wasn’t fully completed within the hackathon window, I’m proud of the frontend functionality and structure I delivered during the two-week build. It was a valuable experience in collaboration, adaptability, and focused execution. -->
 ---
 
