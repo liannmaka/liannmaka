@@ -57,8 +57,8 @@ Working on **FocusPond** ~ a calm productivity & wellness app that combines Pomo
 -->
 
 ---
-### Collaborative car rental app (Hackathon Project)
-**Context:** A full-stack car rental platform built for both admins (managing cars and reservations) and users (browsing and booking cars). Developed during a two-week hackathon focused on collaboration and rapid execution.
+### Collaborative car rental app
+**Context:** A full-stack car rental platform built for both admins (managing cars and reservations) and users (browsing and booking cars).
 
 **My role:** Frontend Engineer ~ architecture setup, authentication flow, and admin dashboard implementation.
 
